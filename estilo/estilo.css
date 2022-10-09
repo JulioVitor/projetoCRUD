@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(135,206,235);
+    
+}
+
+.box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* .box02{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+} */
+
+
+.boxlogin{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%); 
+}
+
+.btn:hover{
+    background-color: deeppink;
+    cursor: pointer;
+}
